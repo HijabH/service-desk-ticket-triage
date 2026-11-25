@@ -1,0 +1,10 @@
+[
+  {"subject": "Account locked after password change", "body": "Hi, I changed my password this morning and now my account is locked. I cannot log in to Windows.", "requester": "j.weber@example.com", "department": "Sales"},
+  {"subject": "Produktion steht - SAP Auftrag kann nicht gebucht werden", "body": "Seit 7 Uhr kann die ganze Schicht keine Auftraege in SAP buchen. Fehlermeldung beim Speichern.", "department": "Production"},
+  {"subject": "Printer on 2nd floor not printing", "body": "The printer near the kitchen shows paper jam but there is no paper stuck.", "department": "Finance"},
+  {"subject": "VPN does not connect from home", "body": "VPN client says authentication failed. My phone number is +49 151 2345678 if you want to call.", "department": "Engineering"},
+  {"subject": "Outlook calendar not syncing with Teams", "body": "Meetings I accept in Outlook do not show up in Teams.", "department": "HR"},
+  {"subject": "New employee starting Monday", "body": "Please order a laptop and create accounts for our new colleague in purchasing.", "department": "Purchasing"},
+  {"subject": "Excel crashes when opening large file", "body": "Excel closes without an error when I open the monthly report (about 80 MB).", "department": "Controlling"},
+  {"subject": "Coffee machine broken", "body": "The coffee machine in building B is showing an error.", "department": "Logistics"}
+]
